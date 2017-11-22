@@ -1,0 +1,36 @@
+.mijnnaam {
+	color: #000000;
+	text-align: left;
+	font-size: 40pt;
+	font-family: minion pro;
+	font-style: italic;
+	position: absolute;
+	left: 40px;
+	right: 10px;
+}
+
+.uitleg2{
+	color: #000000;
+	font-family: minion pro;
+	font-style: italic;
+	font-size: 40pt;
+	text-align: left;
+	position: absolute;
+	left: 40px;
+	right: 10px;
+	top: 70px;	
+}
+
+.menu{
+	font-size: 20pt;
+	color: #12cb0a;
+	font-family: minion pro;
+	font-style: italic;
+	position: absolute;
+	top: 190px;
+	left: 40px;
+	text-decoration: underline;
+}
+
+.ik{
+}
